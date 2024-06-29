@@ -3,7 +3,7 @@ Just a guy looking to make my developer workflow more awesome, build performant 
 
 #### Currently focused on
 - Mastering responsive design with pure html and css
-- API Design with node.js
+- API Design with node.js (Prisma, postgres)
 - VIM (planning to switch)
 - Next.js
 
