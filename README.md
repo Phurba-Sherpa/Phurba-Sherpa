@@ -4,13 +4,14 @@ Just a guy looking to make my developer workflow more awesome, build performant 
 #### Currently focused on
 - Mastering responsive design with pure html and CSS
 - API Design (Prisma, Postgres, Express.js)
-- VIM (planning to switch)
+- Neovim
 - Next.js
 
 #### Future techstack plan
 - Next.js
 - GO
 - Postgres
+- Neovim
 
 <!---
 Phurba-Sherpa/Phurba-Sherpa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
