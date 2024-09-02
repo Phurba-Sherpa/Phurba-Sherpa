@@ -6,12 +6,14 @@ Just a guy looking to make my developer workflow more awesome, build performant 
 - API Design (Prisma, Postgres, Express.js)
 - Neovim
 - Next.js
+- tailwindcss
 
 #### Future techstack plan
 - Next.js
 - GO
 - Postgres
 - Neovim
+- tailwindcss
 
 <!---
 Phurba-Sherpa/Phurba-Sherpa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
