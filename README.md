@@ -2,10 +2,8 @@
 Just a guy looking to make my developer workflow more awesome, build performant projects, and ultimately craft really awesome software. 
 
 #### Currently focused on
-- API Design (GoLang, postgres)
+- Bash script
 - Neovim
-- Next.js
-- tailwindcss
 
 #### Future techstack plan
 - Next.js
