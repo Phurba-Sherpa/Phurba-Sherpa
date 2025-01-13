@@ -1,6 +1,7 @@
 <p align="center">
 <img src="https://github.com/wick3dr0se/wick3dr0se/blob/main/matrix.gif?raw=true" alt="Matrix Digital Rain" width="100%;">
 </p>
+
 ## Phurba
 Just a guy looking to make my developer workflow more awesome, build performant projects, and ultimately craft really awesome software. 
 
