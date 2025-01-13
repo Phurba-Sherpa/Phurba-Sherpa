@@ -3,7 +3,8 @@ Just a guy looking to make my developer workflow more awesome, build performant 
 
 #### Currently focused on
 - Bash script
-- Neovim
+- GNU Coreutils
+- Developer tools
 
 #### Future techstack plan
 - Next.js
