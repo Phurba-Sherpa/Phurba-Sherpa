@@ -1,3 +1,5 @@
+[![Matrix Digital Rain](https://github.com/wick3dr0se/wick3dr0se/blob/main/matrix.gif?raw=true)](https://github.com/wick3dr0se/matrix)
+
 ## Phurba
 Just a guy looking to make my developer workflow more awesome, build performant projects, and ultimately craft really awesome software. 
 
