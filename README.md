@@ -8,7 +8,8 @@ Just a guy looking to make my developer workflow more awesome, build performant 
 #### Currently focused on
 - Bash script
 - GNU Coreutils
-- Developer tools
+- Git Fu
+- Vim fugitive - "so awesome, it should be illegal"
 
 #### Future techstack plan
 - Next.js
