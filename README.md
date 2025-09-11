@@ -18,7 +18,14 @@ Just a guy looking to make my developer workflow more awesome, build performant 
 - Neovim
 - tailwindcss
 
-**Dev Tools:** Linux, i3, Alacritty, tmux, Neovim, Shell with Vi keybindings (`set -o vi`)
+**Dev Tools:** 
+- Distro: Ubuntu
+- Window Manager: i3
+- Terminal: Alacritty
+- Terminal Manager: Tmux
+- Shell: Bash
+- Editor/Code Editor: Neovim
+- Application Launcher: Rofi
 <!---
 Phurba-Sherpa/Phurba-Sherpa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
