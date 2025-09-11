@@ -6,10 +6,10 @@
 Just a guy looking to make my developer workflow more awesome, build performant projects, and ultimately craft really awesome software. 
 
 #### Currently focused on
-- Bash script
-- GNU Coreutils
-- Git Fu
-- Vim fugitive - "so awesome, it should be illegal"
+- Prompt Engineering
+- Containerization (Docker) & Orchestration (Kubernetes)
+- Dot file management (not yet strated)
+
 
 #### Future techstack plan
 - Next.js
@@ -17,6 +17,7 @@ Just a guy looking to make my developer workflow more awesome, build performant 
 - Postgres
 - Neovim
 - tailwindcss
+
 
 **Dev Tools:** 
 - Distro: Ubuntu
