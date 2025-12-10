@@ -6,28 +6,38 @@
 Just a guy looking to make my developer workflow more awesome, build performant projects, and ultimately craft really awesome software. 
 
 #### Currently focused on
-- FastAPI, Alembic
-- Prompt Engineering
+- FastAPI, SQLModel
+- Prompt Engineering, MCP, Agentic AI
 - Containerization (Docker) & Orchestration (Kubernetes)
 - Dot file management (not yet strated)
 
 
 #### Future techstack plan
 - Next.js
-- GO
+- Python (FastAP, SQLModel)
 - Postgres
 - Neovim
-- tailwindcss
+- Agentic AI, Prompt Engineering
 
 
-**Dev Tools:** 
-- Distro: Ubuntu
-- Window Manager: i3
-- Terminal: Alacritty
-- Terminal Manager: Tmux
-- Shell: Bash
-- Editor/Code Editor: Neovim
-- Application Launcher: Rofi
+### Dev tools
+1. **Linux setup**:
+   - Distro: Ubuntu
+   - Tiling WM: i3
+   - App Launcher: Rofi
+   - Terminal Manager: Tmux
+   - Shell: bash
+   - Editor/Code Editor: Neovim
+   - Others: vimium (for browser), gh cli. 
+2. **macOS setup**:
+   - Tiling WM: Aerospace
+   - App Launcher: Raycast
+   - Terminal Manager: Tmux
+   - Shell: bash
+   - Terminal: Ghostty
+   - Editor/Code Editor: Neovim
+   - Others: vimium (for browser), gh cli. 
+   
 <!---
 Phurba-Sherpa/Phurba-Sherpa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
