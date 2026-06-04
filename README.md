@@ -7,7 +7,7 @@ Just a guy looking to make my developer workflow more awesome, build performant 
 
 #### Currently exploring on
 - Agentic AI, Context Engineering
-- Dot file management (not yet strated)
+- DevOps
 
 
 
